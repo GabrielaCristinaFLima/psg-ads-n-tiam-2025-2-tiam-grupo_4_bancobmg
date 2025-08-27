@@ -12,7 +12,7 @@ Do ponto de vista financeiro e operacional, há custos elevados com atendimento 
 
 ## Objetivos
 Objetivo Geral
-Reduzir o tempo entre a decisão do cliente de sacar e a efetivação da solicitação para poucos minutos, aumentando em 40% a taxa de conversão e diminuindo os custos operacionais por cliente.
+- Reduzir o tempo entre a decisão do cliente de sacar e a efetivação da solicitação para poucos minutos, aumentando em 40% a taxa de conversão e diminuindo os custos operacionais por cliente.
 
 Objetivos Específicos
 
